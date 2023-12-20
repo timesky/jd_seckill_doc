@@ -40,3 +40,13 @@ openssl x509 -subject_hash_old -in cert.cer -inform der
 4\. OK，系统设置中已系统信任的 Charles 证书。
 
 ![](https://pic3.zhimg.com/v2-497806d778bf015ccb4f2a2824533d1a_b.jpg)
+
+模拟器中配置代理ip两种方式 ，二选一结果都一样
+
+1. wifi中直接设置
+
+2. PC上cmd 中adb设置代理
+
+   `adb shell settings put global http_proxy 192.168.2.146:8888`
+
+   `adb shell settings put global https_proxy 192.168.2.146:8888`

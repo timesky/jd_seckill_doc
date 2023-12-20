@@ -3,7 +3,7 @@
 
 1. [android root  magisk](https://magiskcn.com/)
 2. [charles 抓包](./doc/Android抓包.md)
-3. frida hook
+3. [frida hook](./doc/frida.md)
 4. jd秒杀流程
 5. sign注意事项
 6. jstk 方法过程
