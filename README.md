@@ -4,7 +4,7 @@
 1. [android root  magisk](https://magiskcn.com/)
 2. [charles 抓包](./doc/Android抓包.md)
 3. [frida hook](./doc/frida.md)
-4. jd秒杀流程
-5. sign注意事项
+4. [jd秒杀流程](/doc/jd秒杀流程.md)
+5. [sign注意事项](/doc/sign.md)
 6. jstk 方法过程
 7. jd服务器与本地服务器时间对比
